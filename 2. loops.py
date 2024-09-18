@@ -410,6 +410,11 @@
 # Output:
 # Display the dictionary with the frequency of each element.
 
+# string = input("Enter number: ").replace(" ", "")
+# ls = list(x for x in string)
+# dic = {x:ls.count(x) for x in set(ls)}
+# print(dic)
+
 # Assignment 20: Create a program to manage a book collection using dictionaries.
 # Input:
 # Allow the user to add, remove, and search for books in the collection.
